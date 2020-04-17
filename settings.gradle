@@ -1,0 +1,3 @@
+rootProject.name='AndroidPlistParser'
+include ':app'
+include ':plist_parser'
